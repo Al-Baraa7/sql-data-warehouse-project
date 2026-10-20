@@ -2,7 +2,7 @@
 
 This project demonstrates a data warehousing solution built with SQL Server, from raw source files to a business-ready analytical model.
 
-> **Credit:** The design of this project (architecture, requirements, and dataset) comes from [Data With Baraa](https://github.com/DataWithBaraa/sql-data-warehouse-project). I implemented it by following his tutorial.
+> **Credit:** This project was designed by [Data With Baraa](https://github.com/DataWithBaraa/sql-data-warehouse-project). I implemented it by following his tutorial, using his dataset. The documentation in `docs/` (diagrams, data catalog, naming conventions) is adapted from the original project.
 
 ---
 
